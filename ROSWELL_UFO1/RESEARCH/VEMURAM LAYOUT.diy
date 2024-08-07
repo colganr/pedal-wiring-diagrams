@@ -2530,7 +2530,7 @@
       <name>LAB1</name>
       <point x="4.69" y="6.395"/>
       <text>B+</text>
-      <font name="Square721 BT Roman" size="14" style="0"/>
+      <font name="Dialog" size="14" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
@@ -2541,5 +2541,5 @@
   <lockedLayers/>
   <lockedComponents/>
   <hiddenLayers/>
-  <font name="Square721 BT Roman" size="14" style="0"/>
+  <font name="Dialog" size="14" style="0"/>
 </project>
